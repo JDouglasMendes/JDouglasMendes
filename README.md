@@ -3,8 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=JDouglasMendes)
 
 ### Onde me encontrar 👇🏼
-[ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/douglas-mendes-full-stack/)
+[ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-mendes-full-stack/)
 ](https://www.linkedin.com/in/douglas-mendes-full-stack/)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@douglasaleixomendes)](https://medium.com/@douglasaleixomendes)
 
 ### Techs 😎
 
@@ -22,7 +23,6 @@
 ![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
 ![TrelloBadge](https://img.shields.io/badge/trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
