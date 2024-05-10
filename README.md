@@ -38,8 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDouglasMendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](http://badges.com.br/share/bfd8036d2fb43ff1eda299c5ded0c745.php?a=5758&embed=true)](http://badges.com.br/share/bfd8036d2fb43ff1eda299c5ded0c745.php?a=5758&embed=true)
-
 
 
 <!--
